@@ -21,7 +21,7 @@ Exemplo SQL + DER para a Live Code (<a href="https://github.com/rafaelq80/MySQL/
 
 Construção do DER - Live Code (<a href="https://github.com/rafaelq80/MySQL/blob/main/aula_04/" target="_blank">Clique aqui</a>) - Diagrama de Entidade e Relacionamentos.
 
-## Exercícios:(ainda vou colocar aqui) 
+## Exercícios:<a href="https://github.com/carlosmoronisud/MySQL/blob/master/Exerc%C3%ADcios-1.sql" target="_blank">Clique aqui</a>) 
 
 
 
